@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry excluding="GridWorldCode/" kind="src" path="GridWorldCode"/>
+	<classpathentry kind="src" path="GridWorldCode/GridWorldCode"/>
+	<classpathentry kind="src" path="jawn/chess/src"/>
+	<classpathentry kind="lib" path="__MACOSX/jawn/._gridworld.jar"/>
+	<classpathentry kind="lib" path="jawn/gridworld.jar"/>
+	<classpathentry kind="output" path="jawn/chess/bin"/>
+</classpath>
